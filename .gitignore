@@ -1,0 +1,6 @@
+node_modules/
+*.csv
+
+__MACOSX/
+
+.env
